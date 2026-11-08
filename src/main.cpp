@@ -1,6 +1,8 @@
 #include <iostream> 
-using namespace std; 
-int main ()
+using namespace std;
+int main()
 {
-cout << "Hello" <<endl; 
+
+cout <<" прикольно"<<endl;
+return 0; 
 }
